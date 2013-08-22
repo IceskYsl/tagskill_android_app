@@ -5,3 +5,5 @@ Android App for tagskill~
 
 
 test the hook~
+
+test fixing bug #2
