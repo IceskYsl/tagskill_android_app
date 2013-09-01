@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TagSkill</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="bind_account">Bind Account</string>
+    <string name="my_account">My Account</string>
+</resources>
